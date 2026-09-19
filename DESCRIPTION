@@ -1,0 +1,19 @@
+Package: TestTry
+Type: Package
+Title: Dijkstra and Euclidean GCD function for discrete mathematics
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "wenjuan",
+      email = "wenli420@student.liu.se",
+      role = c("aut", "cre")
+    )
+  )
+Description: More about what it does (maybe more than one line).
+    Continuation lines should be indented.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.5)
+Config/roxygen2/version: 8.1.0
