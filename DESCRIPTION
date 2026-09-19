@@ -4,13 +4,13 @@ Title: Dijkstra and Euclidean GCD function for discrete mathematics
 Version: 0.1.0
 Authors@R: c(
     person(
-      "wenjuan",
+      "wenjuan","qianwen",
       email = "wenli420@student.liu.se",
       role = c("aut", "cre")
     )
   )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
+Description: A small R package developed for Lab3 assignment.
+    It contains functions for statistical calculation and simple.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
