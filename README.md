@@ -41,7 +41,7 @@ This project is licensed under the MIT License.
 See the [LICENSE](https://gitlab.liu.se/qiayu183/lab3advr/-/blob/main/LICENSE?ref_type=heads) file for full terms.
 
 ## 4. Pipeline status 
--[![pipeline status](https://gitlab.liu.se/qiayu183/lab3package/badges/master/pipeline.svg)](https://gitlab.liu.se/qiayu183/lab3package/-/commits/master)
+- [![pipeline status](https://gitlab.liu.se/qiayu183/lab3advr/-/pipelines)\
 -note: we also test GitHub Actions (https://github.com/wenli420/lab3compare/actions).
 
 ## 5. Installation
@@ -60,3 +60,5 @@ euclidean(100,1000)
 - Deprecated context() warning in testhat
 - Devtools::document() notice quotes cause document() errors.
 - Switching remotes requires detaching the previous one first.
+
+
