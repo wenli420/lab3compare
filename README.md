@@ -41,8 +41,8 @@ This project is licensed under the MIT License.
 See the [LICENSE](https://gitlab.liu.se/qiayu183/lab3advr/-/blob/main/LICENSE?ref_type=heads) file for full terms.
 
 ## 4. Pipeline status 
-- [![pipeline status](https://gitlab.liu.se/qiayu183/lab3advr/-/pipelines)\
--note: we also test GitHub Actions (https://github.com/wenli420/lab3compare/actions).
+- [pipeline status](https://gitlab.liu.se/qiayu183/lab3advr/-/pipelines)\
+- note: we also test GitHub Actions (https://github.com/wenli420/lab3compare/actions).
 
 ## 5. Installation
 #### devtools::install_git("https://gitlab.liu.se/qiayu183/lab3advr.git")
